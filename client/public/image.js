@@ -1,1 +1,1 @@
-console.log("this is a js file of image")
+console.log("this is image")
