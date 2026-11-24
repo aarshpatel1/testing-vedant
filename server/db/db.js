@@ -1,1 +1,1 @@
-console.log("there is no database");
+console.log("there is a database");
